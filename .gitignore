@@ -1,0 +1,11 @@
+# Exclude a specific folder
+MiniBank/
+
+# Exclude all PDF files anywhere in the repository
+*.pdf
+
+# Exclude all Word documents (.docx) anywhere in the repository
+*.docx
+
+# Exclude all compiled Java class files (.class) anywhere in the repository
+*.class
