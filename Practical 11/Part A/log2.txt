@@ -1,0 +1,3 @@
+WARNING: Low memory
+ERROR: File not found
+ERROR: Access denied

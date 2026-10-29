@@ -9,3 +9,5 @@ MiniBank/
 
 # Exclude all compiled Java class files (.class) anywhere in the repository
 *.class
+
+.txt
